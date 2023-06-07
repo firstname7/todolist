@@ -1,0 +1,22 @@
+.content {
+	padding: 30px;
+	margin: 0 -15px;
+}
+
+.todocontent {
+	display: flex;
+}
+
+.menuBox {
+	height: 80px;
+	background-color: blueviolet;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	padding-left: 30px;
+}
+.menuBox a {
+	margin-right: 20px;
+	color: #fff;
+	text-decoration: none;
+}

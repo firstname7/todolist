@@ -1,0 +1,1 @@
+export const Preloader = () => <span> Loading... </span>
